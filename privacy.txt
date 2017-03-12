@@ -1,7 +1,5 @@
-NetMon is a very useful app that can identify which of your mobile apps contain open ports 
-     and help you measure whether your network allows the traffic to open ports.
-By using this app, you are contributing the open-port related data to our study, 
-     and must be at least 18 years old. Otherwise,  please exit. Thanks! :)
+NetMon is a very useful app that can identify which of your mobile apps contain open ports and help you measure whether your network allows the traffic to open ports.
+By using this app, you are contributing the open-port related data to our study, and must be at least 18 years old. Otherwise, please exit.
 We will in turn provide you the in-depth knowledge about open ports in applications installed on your phone.
 We intend to make this a long-term study.
 
@@ -17,9 +15,7 @@ These results will eventually advance the scientific knowledge on open ports in 
 There are no anticipated risks to the participants participating in this study.
 
 To guarantee your confidentiality and privacy,
-(1) we will only collect the information that is not individually identifiable including apps' open-port related data 
-    (those you can see on NetMon' UI) and basic hardware information (no IMEI, and ANDROID_ID is hashed with salt).
-    Note that the installed apps will be collected, only for categorizing open-port apps and other apps without open ports.
+(1) we will only collect the information that is not individually identifiable including apps' open-port related data (those you can see on NetMon' UI) and basic hardware information (no IMEI, and ANDROID_ID is hashed with salt). Note that the installed apps will be collected, only for categorizing open-port apps and other apps without open ports.
 (2) we will transmit the collected data to the industry-level secure server using the standard encryption method via HTTPS.
 (3) only the NetMon research team will have access to the collected raw data.
 
